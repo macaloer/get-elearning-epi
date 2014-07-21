@@ -1,6 +1,7 @@
-Get-elearning-epitech in devellopment | beta version 0.5.0 branch develop
-=================
+Get-elearning-epitech
+=====================
 
+Beta version 0.5.0 branch develop
 
 Description:
 
@@ -35,7 +36,7 @@ Usage:
   perl ./get-elearning-epitech.pl
   
   
-  This script will create a folder named "backup-epitech" 
+  This script will create a folder named "backup-epitech" with 
    
 Author:
 
