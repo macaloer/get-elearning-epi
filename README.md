@@ -1,5 +1,4 @@
 Get-elearning-epitech in devellopment | beta version 0.5.0 branch develop
-
 =================
 
 
@@ -14,8 +13,8 @@ Installation:
 
     - Perl on Windows (Win32 and Win64)
 
-    Strawberry Perl is an open source binary distribution of Perl for the Windows operating system. It includes a compiler     and pre-installed modules that offer the ability to install XS CPAN modules directly from CPAN. cpanm can be installed     by running cpan App::cpanminus.
-    ActiveState provide a binary distribution of Perl (for many platforms), as well as their own perl package manager         (ppm). Some modules are not available as ppm's or have reported errors on the ppm build system, this does not mean        they do not work. You to use the cpan script to build modules from CPAN against ActiveState Perl.
+    Strawberry Perl is an open source binary distribution of Perl for the Windows operating system. It includes a compiler and pre-installed modules that offer the ability to install XS CPAN modules directly from CPAN. cpanm can be installed by running cpan App::cpanminus.
+    ActiveState provide a binary distribution of Perl (for many platforms), as well as their own perl package manager (ppm). Some modules are not available as ppm's or have reported errors on the ppm build system, this does not mean they do not work. You to use the cpan script to build modules from CPAN against ActiveState Perl.
     
     - Perl on Linux 
      
